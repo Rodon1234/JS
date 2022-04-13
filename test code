@@ -1,0 +1,2 @@
+let username="Pavel";
+console.log (username)
