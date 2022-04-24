@@ -10,7 +10,8 @@
 
 let n1 = 10,
     n2 = 30,
-    
+    n3 = "Hello",    
+    n4 = 20;
 
 let let_type1 = typeof n1;   
 let let_type2 = typeof n2;
