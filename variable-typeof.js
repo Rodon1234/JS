@@ -1,4 +1,12 @@
+// let nimfa
+// nimfa = 15
+// console.log(nimfa)
 
+
+// let nimfa1 = 15
+// let nimfa2 = 20
+// let result = nimfa1 + nimfa2
+// console.log(result)
 
 let n1 = 10,
     n2 = 30,
