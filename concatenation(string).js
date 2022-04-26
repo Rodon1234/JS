@@ -1,5 +1,3 @@
-let Nika1 = 20
-let Nika2 = "HellO!"
 
 let result = Nika1 + Nika2
 
